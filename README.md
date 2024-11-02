@@ -1,7 +1,5 @@
-<p align="center">
-<img src="![FALTOSPLOITER](https://github.com/user-attachments/assets/eeea5578-37e7-42b3-8afa-fe77d5be3c9a)
-" width="172" height="123">
-</p>
+  ![FALTOSPLOITER](https://github.com/user-attachments/assets/eeea5578-37e7-42b3-8afa-fe77d5be3c9a)
+
 
 # DigiSpark Attiny85 poor man's RubberDucky
 For people who can't buy or are too cheap to buy RubberDucky, DigiSpark Attiny85 is the solution to their problems. Because it's possible to use it as HID thanks to "DigiKeyboard.h" it can be use as keyboard to send keystrokes to computer which can be use for pranking your people to creating a backdoor in target system.
