@@ -1,5 +1,4 @@
-![FALTOSPLOITER]#(https://github.com/user-attachments/assets/eeea5578-37e7-42b3-8afa-fe77d5be3c9a)
-<img src="<iframe src="https://giphy.com/embed/26tPnAAJxXTvpLwJy" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hackers-hackerman-26tPnAAJxXTvpLwJy">via GIPHY</a></p>"
+<iframe src="https://giphy.com/embed/26tPnAAJxXTvpLwJy" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacker-hackers-hackerman-26tPnAAJxXTvpLwJy">via GIPHY</a></p>
 
 # DigiSpark Attiny85 poor man's RubberDucky
 For people who can't buy or are too cheap to buy RubberDucky, DigiSpark Attiny85 is the solution to their problems. Because it's possible to use it as HID thanks to "DigiKeyboard.h" it can be use as keyboard to send keystrokes to computer which can be use for pranking your people to creating a backdoor in target system.
@@ -30,6 +29,6 @@ Following is the list of payloads i have worked on so far
 >Payload Dropper: Download and exeute files from internet
 
 >Instant Shell: Reverse shell payloads
-
+![FALTOSPLOITER]#(https://github.com/user-attachments/assets/eeea5578-37e7-42b3-8afa-fe77d5be3c9a)
 ## DISCLAIMER
 All the software/scripts/applications/things in this repository are provided as is, without warranty of any kind. Use of these software/scripts/applications/things is entirely at your own risk. Creator of these softwares/scripts/applications/things is not responsible for any direct or indirect damage to your own or defiantly someone else's property resulting from the use of these software/scripts/applications/things.
