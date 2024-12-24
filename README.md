@@ -1,5 +1,4 @@
-<iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
-  ![FALTOSPLOITER](https://github.com/user-attachments/assets/eeea5578-37e7-42b3-8afa-fe77d5be3c9a)
+![FALTOSPLOITER](https://github.com/user-attachments/assets/eeea5578-37e7-42b3-8afa-fe77d5be3c9a)
 
 
 # DigiSpark Attiny85 poor man's RubberDucky
