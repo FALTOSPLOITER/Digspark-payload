@@ -10,6 +10,3 @@
 - Running time is around 15 seconds(depending on hw and length of user name, password, description...)
 - Optionally you can add `-FullName` and `-Description` parameters to give account more believable look: 
 `New-LocalUser \"accName\" -Password $pass -FullName \"User name\" -Description \"Description of new account\"`
-
-# Credits
-- https://github.com/Michyus
